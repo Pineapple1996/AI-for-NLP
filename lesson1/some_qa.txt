@@ -1,0 +1,16 @@
+回答以下问题，并将问题发送至 mqgao@kaikeba.com中：
+
+2.1. what do you want to acquire in this course？
+A:获取AI 和 ML 算法的内容，迈入AI行业,提升个人能力
+
+2.2. what problems do you want to solve？
+A:AI中的数学理解,增加AI模型构建能力,具有做实际项目的能力
+
+2.3. what’s the advantages you have to finish you goal?
+A: 工作中的python代码能力和一些工作中的经验吧
+
+2.4. what’s the disadvantages you need to overcome to finish you goal?
+A:没有研究生的经历，没有比较强的算法数学背景,可能我也没有像别的同学那么多的时间投入,准备考研学习计划事情比较多
+
+2.5. How will you plan to study in this course period?
+A:固定一些学习和做作业时间,多刷一些leetcode,感觉自己算法方面还是不够，也不够有系统
